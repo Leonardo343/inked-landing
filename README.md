@@ -23,3 +23,5 @@ The custom domain is `inkedapp.it`. Configure website DNS independently of the e
 ## Content updates
 
 Edit `index.html` and `styles.css`, verify desktop and mobile layouts, then push to `main`. Product descriptions must remain accurate about what is available and what is still in development.
+
+The page distinguishes the artist-first product in development, planned Inventory, and later directions for studio collaboration, digital consent, clients and local discovery. Check the main Inked repository's current scope and official roadmap before changing these descriptions. No features are presented as publicly available.
